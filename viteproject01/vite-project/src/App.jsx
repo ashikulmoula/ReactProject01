@@ -1,7 +1,8 @@
-
 function App() {
   return (
-    <h1>Chai our react</h1>
+    <>
+      <h1>Chai our vite project</h1>
+    </>
   );
 }
 
